@@ -28,6 +28,10 @@ class student {
     }
 }
 
-class main {
+class Main {
     
 }
+
+
+
+
